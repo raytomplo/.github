@@ -24,9 +24,6 @@ Raytomplo offers several features to enhance your Free Fire experience. Here are
 - **Ghost Mode**: Become invisible with the ghost mode. Move stealthily through the battlefield without being detected by enemies.
 - **User-Friendly Interface**: The interface is simple and intuitive, making it easy for players of all skill levels to use the tools.
 
-![raytomplo-free-fire-max-apk-for-android](https://github.com/user-attachments/assets/14dd7516-4748-4fee-a112-58c20518a79f)
-
-
 **Actors and Characters in Raytomplo**
 
 Raytomplo doesn't focus on specific characters or actors, as it is a mod for Free Fire. The game itself features numerous characters with distinct abilities, and Raytomplo simply enhances your ability to interact with them. The focus is on improving the gameplay experience rather than creating new characters.
